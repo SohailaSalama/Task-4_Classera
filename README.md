@@ -37,10 +37,4 @@ Implement SQL Schema in Python ORM with FastAPI Endpoints
 
 7. **Use `.env` file** for database configuration
 
----
- Assignments: create and list assignments for a course
- Submissions: submit and grade
- 5. Use Pydantic for input validation.
- 6. Use Alembic for DB migrations.
- 7. Use 
-.env file for DB config
+
